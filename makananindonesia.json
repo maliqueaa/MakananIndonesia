@@ -1,0 +1,84 @@
+{
+    "result": [
+    {
+        "name": "Sate Kacang",
+        "Rasa": "Enak",
+        "Asal": "Madura",
+        "Harga": "25.000",
+        "Bahan": "Ayam, Kacang, Lontong",
+        "Foto": "https://tse4.mm.bing.net/th?id=OIP.MvfLa0eZuPUHdkkxACPkJQHaE8&pid=Api&P=0&h=180"
+        },
+    {
+        "name": "Rendang",
+        "Rasa": "Enak",
+        "Asal": "Padang",
+        "Harga": "10.000",
+        "Bahan": "Daging",
+        "Foto": "https://tse3.mm.bing.net/th?id=OIP.GJFkY6VEI_XE2k9iGnvMQQHaE8&pid=Api&P=0&h=180"
+    },
+    {
+        "name": "Mie Goreng",
+        "Rasa": "Enak",
+        "Asal": "Surabaya",
+        "Harga": "15.000",
+        "Bahan": "Mie, Ayam, Sayur",
+        "Foto": "https://tse3.mm.bing.net/th?id=OIP._jvbEYOkxKjSdWZ3bFGFoQHaFM&pid=Api&P=0&h=180"
+    },
+    {
+        "name": "Nasi Goreng",
+        "Rasa": "Enak",
+        "Asal": "Surabaya",
+        "Harga": "15.000",
+        "Bahan": "Nasi, Telor, Ayam, Sayur",
+        "Foto": "https://tse3.mm.bing.net/th?id=OIP.-i0vptqzOpwlv_cnNoJW_QHaFj&pid=Api&P=0&h=180"
+    },
+    {
+        "name": "Gado-Gado",
+        "Rasa": "Enak",
+        "Asal": "Betawi",
+        "Harga": "15.000",
+        "Bahan": "Lontong, Kacang, Sayur",
+        "Foto": "https://www.piknikdong.com/wp-content/uploads/2020/06/Resep-Gado-Gado-Sederhana.jpg"
+    },
+    {
+        "name": "Ayam betutu",
+        "Rasa": "Enak",
+        "Asal": "Bali",
+        "Harga": "50.000",
+        "Bahan": "Ayam",
+        "Foto": "https://tse2.mm.bing.net/th?id=OIP.K37n8zvYmiuMoVdjQ9bhJQHaFf&pid=Api&P=0&h=180"
+    },
+    {
+        "name": "Soto Betawi",
+        "Rasa": "Enak",
+        "Asal": "Betawi",
+        "Harga": "20.000",
+        "Bahan": "Daging, Kentang, Sayur",
+        "Foto": "https://www.nowbali.co.id/wp-content/uploads/2020/06/content_Betawi-cuisine-of-all-time-soto-betawi.jpg"
+    },
+    {
+        "name": "Pecel",
+        "Rasa": "Enak",
+        "Asal": "Jawa Timur",
+        "Harga": "10.000",
+        "Bahan": "Sayur, Kacang, Tempe, Tahu",
+        "Foto": "https://bosmeal.com/wp-content/uploads/2020/08/Resep-Bumbu-Sambel-Pecel.jpg"
+    },
+    {
+        "name": "Nasi Uduk",
+        "Rasa": "Enak",
+        "Asal": "Betawi",
+        "Harga": "10.000",
+        "Bahan": "Nasi, Kacang, Tempe, Tahu, Telor, Timun",
+        "Foto": "https://doyanresep.com/wp-content/uploads/2020/01/resep-nasi-uduk-rice-cooker.jpg"
+    },
+    {
+        "name": "Nasi Padang",
+        "Rasa": "Enak",
+        "Asal": "Padang",
+        "Harga": "20.000",
+        "Bahan": "Nasi, Tempe, Telor, Ayam, Sambal, Sayur",
+        "Foto": "https://i.pinimg.com/originals/45/1c/3a/451c3a2537616f5d5d06750972b5458e.jpg"
+    }
+   ]
+  }
